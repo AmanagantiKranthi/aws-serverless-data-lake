@@ -1,0 +1,9 @@
+order_id,order_ts,customer_id,product,quantity,unit_price,country
+ORD-1001,2026-10-01 09:15:00,CUST-01,Keyboard,2,49.99,India
+ORD-1002,2026-10-01 10:20:00,CUST-02,Mouse,1,19.50,India
+ORD-1003,2026-10-02 11:05:00,CUST-03,Monitor,1,179.00,United States
+ORD-1004,2026-10-02 12:40:00,CUST-04,USB-C Hub,3,32.00,United Kingdom
+ORD-1005,2026-10-03 08:10:00,CUST-05,Webcam,1,65.00,India
+ORD-1006,2026-10-03 14:30:00,CUST-06,Headset,2,54.25,Singapore
+ORD-1007,2026-10-04 16:45:00,CUST-07,Desk Lamp,1,28.75,India
+ORD-1008,2026-10-05 09:00:00,CUST-08,SSD,2,89.90,Australia
